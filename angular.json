@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "foster-portal-app": "apps/foster-portal-app",
+    "foster-portal-app-e2e": "apps/foster-portal-app-e2e"
+  }
+}
